@@ -5,7 +5,7 @@
 
 ## Roadmap
 ## Desenvolvedores
-` (Sergio Barros - C#/Unity Developer)[www.google.com]`
+(Sergio Barros - C#/Unity Developer)[www.google.com]
 
 
 ### 2D
